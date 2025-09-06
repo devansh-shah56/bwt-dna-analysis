@@ -10,7 +10,7 @@ The BWT is a string transformation technique that rearranges characters into
 runs of similar characters, making it highly effective for data compression 
 and pattern matching in bioinformatics applications.
 
-Author: [Your Name]
+Author: Devansh Shah
 Date: September 2025
 License: MIT
 
