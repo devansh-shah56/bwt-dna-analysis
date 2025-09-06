@@ -268,19 +268,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]**
-- 🎓 Biomedical Engineering Student & Emergency Medicine Physician
+**Devansh Shah**
+- 🎓 Biomedical Engineering Student & Healthcare Informatics
 - 🔬 Research Focus: Computational Biology & Bioinformatics
-- 🌐 GitHub: [@your-username](https://github.com/your-username)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 🌐 GitHub: [@your-username](https://github.com/devansh-shah56)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/devansh-shah-3467b1150/)
+- 📧 Email: devansh.shah@iitb.ac.in
 
 ## 🙏 Acknowledgments
 
 - Inspired by the seminal work of Michael Burrows and David Wheeler
 - Built during coursework in Digital Health and Bioinformatics (DH607)
 - Thanks to the bioinformatics community for open-source tools and datasets
-- Special recognition to "Why We Die" by Venki Ramakrishnan for providing test text
 
 ---
 
